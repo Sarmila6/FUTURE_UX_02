@@ -62,3 +62,8 @@ Appointment rescheduling
 In-app notifications
 Online payment integration
 Patient history tracking
+
+Live Figma Prototype
+
+View the complete high-fidelity design and interactive booking flow here:
+https://www.figma.com/proto/hiUXLQEx4EECU5xxkEZU7J/AuraDerm-App?node-id=13-355&t=3rmLqstLjJDZSQCF-1
